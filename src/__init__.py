@@ -1,0 +1,1 @@
+from .snatch import main
